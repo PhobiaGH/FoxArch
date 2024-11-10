@@ -1,0 +1,2 @@
+# FoxArch
+FoxArch install script
