@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Welcome
+Comment=Welcome to FoxArch
+Exec=python3 /etc/foxarch/scripts/Welcome/welcome.py
+Icon=/etc/foxarch/scripts/Welcome/resources/images/fox0.png
+Path=/etc/foxarch/scripts/Welcome/
+Terminal=false
+Type=Application
+Categories=Utility;Application;
