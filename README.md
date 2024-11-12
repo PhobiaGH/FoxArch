@@ -1,2 +1,2 @@
 # FoxArch
-FoxArch install script
+FoxArch install script resources
